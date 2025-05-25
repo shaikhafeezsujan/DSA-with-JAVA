@@ -1,3 +1,9 @@
+/*
+Time Complexity : O(n)
+Space Complexity: O(1)
+
+
+
 package Arrays;
 
 public class Kadanes_subarray {
@@ -19,3 +25,5 @@ public class Kadanes_subarray {
         maxSubArray(arr);
     }
 }
+
+
